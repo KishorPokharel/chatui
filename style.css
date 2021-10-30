@@ -102,6 +102,10 @@
     font-weight: 300;
 }
 
+.message-thread--received {
+    align-self: start;
+}
+
 .message-thread--sent {
     align-self: end;
 }
